@@ -1,0 +1,24 @@
+you learned that 
+An ERD is a graphical representation of the entities and the relationships between them in a database.
+ERD components include entities, attributes, and relationships.
+Relational databases organize data into tables with relationships based on common fields.
+Entities become tables with the same name and attributes become columns within those tables. 
+
+Summary and Highlights
+Congratulations! You have completed this lesson. At this point, you know that:
+
+There are three main data categories. These include: structured, unstructured, and semi-structured.
+
+Data repositories store and manage data centrally, including relational and non-relational databases.
+
+Information Models provide abstract representations of entities and relationships, whereas Data Models serve as blueprints for practical database structures.
+
+An Entity-Relationship Diagram (ERD) is a visual representation that illustrates the relationships and interactions between entities in a database.
+
+The fundamental components that form the structure of a relationship include entities, relationship sets, and crow’s foot notations.
+
+Varchar, an abbreviation for variable character, is a data type that stores character strings.
+
+Sets characterized by their unordered collections include operations such as membership, subsets, union, and intersection.
+
+Relations describe connections between set elements and consist of two essential components: The Relation Schema and the Relation Instance.

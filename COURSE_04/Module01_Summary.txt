@@ -1,0 +1,20 @@
+Summary and Highlights
+Congratulations! You have completed this lesson. At this point, you know that: 
+
+Deployment topology involves organizing hardware, software, and network components.
+
+The common deployment topologies include single-tier architecture, client-server architecture or two-tier database architecture, three-tier architecture, and cloud-based deployment.
+
+Relational Database Management Systems (RDBMSs) offer distributed architectures for critical or large-scale workloads, employing shared disk and shared nothing strategies for optimized performance.
+
+Databases cater to various user roles, including Data Engineers, Database Administrators (DBAs), Data Scientists, Analysts, and Application Developers.
+
+Data Engineers/DBAs manage databases using GUIs, command line interfaces, and APIs for administrative tasks.
+
+Open-source relational databases have gained popularity, reaching approximately 50% in the past decade, while cloud databases offer increased scalability and data accessibility.
+
+Db2 is a versatile family of products deployable across various platforms, providing high availability, disaster recovery, and scalability.
+
+MySQL supports various programming languages and is a reliable, scalable, and widely adopted database system compatible with UNIX, Windows, and Linux.
+
+PostgreSQL is an open-source, object-relational database supporting a range of languages for client application development, including features for handling relational, structured, and non-structured data.
