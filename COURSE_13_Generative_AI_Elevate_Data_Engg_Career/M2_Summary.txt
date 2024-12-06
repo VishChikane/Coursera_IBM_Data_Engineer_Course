@@ -1,0 +1,21 @@
+Module 2 Summary: Use of Generative AI for Data Engineering
+Congratulations! You have completed this module. At this point in the course, you know:
+
+Generative AI holds immense potential for transforming data pipelines and ETL workflows.
+
+By understanding its capabilities, limitations, and available tools, data engineers can leverage this technology to build efficient, scalable, and future-proof data pipelines, unlocking new possibilities for data-driven insights and decision-making.
+
+As generative AI continues to evolve, its impact on data engineering will only grow, shaping the future of data management and analytics.
+
+By automating anomaly detection and generating insightful reports, generative AI empowers data engineers and analysts to improve data quality, ensure data integrity, and optimize data-driven decision-making.
+
+You can query for specific data from a given data set, such as column names, count of rows, and average age. You can find specific rows, replace values in a column, and sort a table in ascending order.
+
+Generative AI tools can be employed to develop Python scripts capable of executing diverse tasks in data analysis and mining on specified data sets.
+
+Generative AI transforms ETL and data repositories by automating tasks, improving data quality, and streamlining workflows.
+
+While using generative AI models, data scientists need to investigate data, models, and ethical considerations.
+
+Data professionals face technical, organizational, and cultural challenges when using generative AI models in multiple industries.
+
