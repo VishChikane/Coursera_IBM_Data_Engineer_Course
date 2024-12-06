@@ -1,0 +1,27 @@
+Congratulations! You have completed this lesson. At this point in the course, you know: 
+
+You can use the WHERE clause to refine your query results. 
+
+The search condition of the WHERE clause uses a predicate to refine the search. 
+
+You can use the wildcard character (%) as a substitute for unknown characters in a pattern. 
+
+You can use BETWEEN ... AND ... to specify a range of numbers. 
+
+You can sort query results into ascending or descending order, using the ORDER BY clause to specify the column to sort on. 
+
+You can group query results by using the GROUP BY clause.
+
+
+Summary: Functions, Multiple Tables, and Sub-queries
+Congratulations! You have completed this lesson. At this point in the course, you know: 
+
+Tools for database management that offer built-in functions for performing operations on data within the database itself.
+
+That when working with large datasets, you may save time by using built-in functions rather than first retrieving the data into your application and then executing functions on the retrieved data.
+
+You can use sub-queries to form more powerful queries than otherwise.
+
+You can use a sub-select expression to evaluate some built-in aggregate functions like the average function. 
+
+Derived tables or table expressions are sub-queries where the outer query uses the results of the sub-query as a data source.
